@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WB_2</string>
+
+    <string name="header_main_activity">Main Activity</string>
+    <string name="header_second_activity">Second Activity</string>
+    <string name="show_alert_dialog">Show Alert Dialog</string>
+
+    <string name="alert_dialog_title">Attention!</string>
+    <string name="alert_dialog_message">Some message</string>
+    <string name="alert_dialog_button_text">OK</string>
+
+    <string name="first_fragment_header">First Fragment</string>
+    <string name="second_fragment_header">Second Fragment</string>
+    <string name="go_to_second_activity">Go to SecondActivity</string>
+    <string name="go_to_second_fragment">Go to SecondFragment</string>
+</resources>
